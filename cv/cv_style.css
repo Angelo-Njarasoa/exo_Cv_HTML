@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin:0;
+    padding: 20px;
+    background-color: lightgrey;
+    
+}
+h3 {
+    color: #057a40;
+    text-align: 0;
+    font-size: 1rem;
+}
+p{font-style: inherit;}
+.bouton-rouge {
+    background: #c0392b;
+    color: white;
+    padding: 10px 20px;
+    border: none ;
+    border-radius: 150px;
+    cursor:pointer ;
+    
+}
+#para1 {
+  text-align: 0;
+  color: rgb(248, 9, 216) ;
+}
